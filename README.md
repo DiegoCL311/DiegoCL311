@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiegoCL311
-- 👀 I’m interested in ... Videogames, coding, movies, etc..!
-- 🌱 I’m currently learning ... Phyton, git
+- 👀 I’m interested in Express, Django, .NET, SpringBoot, React, Angular, Vue
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Email 18170307@itculiacan.edu.mx
 
