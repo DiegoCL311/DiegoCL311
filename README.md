@@ -54,9 +54,9 @@
 
  <br/><br/>
 
-<p><img height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegocl311&show_icons=true&locale=en&layout=compact" alt="diegocl311" /></p>  
+<p><img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegocl311&show_icons=true&locale=en&layout=compact" alt="diegocl311" /></p>  
   
-<p>&nbsp;<img height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=diegocl311&show_icons=true&locale=en" alt="diegocl311" /></p>
+<p>&nbsp;<img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=diegocl311&show_icons=true&locale=en" alt="diegocl311" /></p>
 
 <!---
 Hola :) que haces aquí
